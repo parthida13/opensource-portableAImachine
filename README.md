@@ -10,14 +10,11 @@
 Required Parts:
 
 
-Orange Pi 5 LTS (Wifi and Bluetooth module for a secure login page and connectivity)
+NVIDIA Jetson Orin Nano Developer Kit
 5000mAh lithium-ion rechargeable battery
-Small 5V microfan Cooling Fan 20mm x 6mm
-HDMI cable (for configuring the Orange Pi visually)
-Usb C cables to charge the lithium battery
-3D printed parts for the case/covered design of the Orange Pi 5
+Usb C cables to charge the lithium battery and for the headless setup
 NVMe SSD (ideally 128- 256 GB) for read/write speed
-1-2 5V 3A (3000mA) connector power supply for the Orange Pi 5 LTS (to experiment if connecting to the lithium battery works.
+
 
 
 
@@ -48,9 +45,7 @@ No need for the internet: No wifi? No problem. This hardware works offline too; 
 
 Lithium Battery: This hardware project is expected to use a Lithium-Ion battery with 5000mAh. Similar to the ones found in your smartphone/powerbanks. For safety reasons I might use a 5000mAh powerbank instead
 
-Cooling Fans: It uses small microfans designed to keep your server/system cool 24/7. It draws small power usage at 0.4-2.5 watts.
-
-Repurposed use: This hardware can also function as basically anything else. If you don’t like the idea of an AI server in your hand, you can repurpose it into, say, a Plex media server, a Minecraft server, a storage system in the cloud (with a good ssd) – I mean the possibilities are endless.
+Repurposed use: This hardware can also function as basically anything else. If you don’t like the idea of an AI server in your hand, you can repurpose it into, say, a Plex media server, a Minecraft server, a storage system in the cloud (with a good SSD) – I mean the possibilities are endless.
 
 
 
@@ -86,10 +81,6 @@ Citations
    
 ‌2. “Privacy Policy.” OpenAI, 2026, https://openai.com/policies/row-privacy-policy/. Accessed 19 Aug. 2026.
 
-
-3D Printed Files: Credit
-
-https://www.printables.com/model/408756-orange-pi-3-lts-case/files
 
 
 
