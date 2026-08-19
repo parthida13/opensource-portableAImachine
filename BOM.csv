@@ -1,10 +1,5 @@
-Item,Description,Quantity,Min Price (USD),Max Price (USD),Estimated Price (USD)
-Orange Pi 5 LTS (with Wi-Fi/Bluetooth),Main single board computer with Wi-Fi/BT module,1,80.0,115.0,97.5
-5000mAh Lithium-Ion Battery,Rechargeable battery module,1,8.0,15.0,11.5
-5V Micro Cooling Fan (20mm x 6mm),Active cooling fan for temperature control,1,3.0,7.0,5.0
-HDMI Cable,Display cable for visual configuration,1,4.0,8.0,6.0
-USB-C Cables,Power/charging cables,2,4.0,8.0,6.0
-3D Printed Custom Case,Custom enclosure for components,1,5.0,20.0,12.5
-128 GB – 256 GB NVMe SSD,High-speed storage module,1,20.0,35.0,27.5
-5V 3A Power Supply,Power adapter for experimentation/testing,2,8.0,16.0,12.0
-TOTAL,-,10,132.0,224.0,178.0
+Item Name,Estimated Price (USD),Status,Luggage Type,Reason
+NVIDIA Jetson Orin Nano Developer Kit,249.00,Base Kit (Includes Fan & Wi-Fi),Carry-on / Hand Baggage Only,Contains fragile chips and exposed pins; safe for security screeners.
+NVMe M.2 SSD (128GB - 256GB),25.00,Required Separate Purchase,Carry-on or Checked,Standard computer hardware component.
+USB-C Power Bank (45W+ PD),40.00,Required for Portability,Carry-on / Hand Baggage Only,Lithium batteries are strictly banned in checked bags due to fire risk.
+USB-C PD Decoy Trigger Cable,8.00,Required for Battery Hookup,Carry-on or Checked,Standard copper cable; no restrictions.
